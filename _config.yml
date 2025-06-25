@@ -1,0 +1,6 @@
+# _config.yml
+title: Test page
+description: This is a test
+url: "https://hjkivima.github.io"
+baseurl: "" # "" for user/organization pages
+theme: pastel # any built-in theme
